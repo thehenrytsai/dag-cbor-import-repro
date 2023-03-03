@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "testing",
   "main": "index.js",
+  "type": "module",
   "dependencies": {
     "@ipld/dag-cbor": "9.0.0"
   },

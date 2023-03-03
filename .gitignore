@@ -1,0 +1,4 @@
+# js deps
+node_modules
+# bundler output location
+dist
